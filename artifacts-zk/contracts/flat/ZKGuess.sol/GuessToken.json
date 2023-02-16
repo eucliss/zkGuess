@@ -1,7 +1,7 @@
 {
   "_format": "hh-zksolc-artifact-1",
   "contractName": "GuessToken",
-  "sourceName": "contracts/GuessToken.sol",
+  "sourceName": "contracts/flat/ZKGuess.sol",
   "abi": [
     {
       "inputs": [],

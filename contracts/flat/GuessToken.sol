@@ -554,3 +554,7 @@ contract GuessToken is ERC20 {
         emit BurnedTokens(amount, msg.sender);
     }
 }
+
+// The deployment is estimated to cost 0.000985312 ETH
+// constructor args:0x
+// GuessToken was deployed to 0xDB931F81E6A7976f34AC83C6dD9473F293ABD7dC

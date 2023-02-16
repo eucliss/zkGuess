@@ -1,7 +1,7 @@
 {
   "_format": "hh-zksolc-artifact-1",
   "contractName": "ERC20",
-  "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
+  "sourceName": "contracts/flat/ZKGuess.sol",
   "abi": [
     {
       "inputs": [

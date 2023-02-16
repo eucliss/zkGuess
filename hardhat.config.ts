@@ -3,7 +3,7 @@ import "@matterlabs/hardhat-zksync-solc";
 
 module.exports = {
   zksolc: {
-    version: "1.2.2",
+    version: "1.3.2",
     compilerSource: "binary",
     settings: {},
   },
@@ -12,7 +12,7 @@ module.exports = {
   networks: {
     zkSyncTestnet: {
       url: "https://zksync2-testnet.zksync.dev",
-      ethNetwork: "https://goerli.infura.io/v3/<add your api key>", 
+      ethNetwork: "https://goerli.infura.io/v3/<api-key>", 
       zksync: true,
     },
   },
